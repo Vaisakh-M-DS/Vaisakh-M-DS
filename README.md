@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaisakh Manikandan</h1>
+<h1 align="center">Hi , I'm Vaisakh Manikandan</h1>
 
 <h3 align="center">
  Full Stack AI Developer 
@@ -24,7 +24,7 @@ My focus is on developing production ready AI applications, backend APIs, automa
 
 - 🤖 Artificial Intelligence Applications
 - 🧠 Large Language Model (LLM) Systems
-- 🔍 Retrieval-Augmented Generation (RAG)
+- 🔍 Retrieval Augmented Generation (RAG)
 - 🤖 AI Agents & Tool Calling
 - ⚡ FastAPI Backend Services
 - 🌐 Full Stack Web Applications
@@ -34,7 +34,7 @@ My focus is on developing production ready AI applications, backend APIs, automa
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -50,23 +50,14 @@ My focus is on developing production ready AI applications, backend APIs, automa
 
 ---
 
-# 💻 Programming Languages
+# Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,html,css,sql" />
 </p>
 
----
 
-# 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
-</p>
-
----
-
-# ⚙️ Backend
+# Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask" />
@@ -74,32 +65,32 @@ My focus is on developing production ready AI applications, backend APIs, automa
 
 ---
 
-# 🗄️ Databases
+# Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
 </p>
 
 ---
 
-# 🤖 Artificial Intelligence
+# Artificial Intelligence
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
 - Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- Retrieval Augmented Generation (RAG)
 - AI Agents
 - Tool Calling
 - Prompt Engineering
 - Vector Databases
-- Fine-Tuning
+- Fine tuning
 - Model Deployment
 
 ---
 
-# ⚙️ Backend Engineering
+# Backend Engineering
 
 - REST APIs
 - JWT Authentication
@@ -118,9 +109,9 @@ My focus is on developing production ready AI applications, backend APIs, automa
 - Vertical Scaling
 - Clean Architecture
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🧠 Intelligent Driving Assistant
+## Intelligent Driving Assistant
 
 An AI-powered driving assistant using:
 
@@ -133,7 +124,7 @@ An AI-powered driving assistant using:
 
 ---
 
-## 🛒 KeraKrunch
+## KeraKrunch
 
 Production-ready E-Commerce Platform
 
@@ -146,19 +137,7 @@ Production-ready E-Commerce Platform
 - Order Management
 - Analytics Dashboard
 
----
-
-## 🎽 Jersey Customization Platform
-
-A modern product customization platform featuring:
-
-- React
-- FastAPI
-- Dynamic Product Customization
-- Responsive UI
-- Secure Backend APIs
-
-- ## 🥗 AI Ingredient Detection System
+- ## AI Ingredient Detection System
 
 An intelligent computer vision application that identifies food ingredients from images and supports smart food analysis.
 
@@ -179,7 +158,7 @@ An intelligent computer vision application that identifies food ingredients from
 
 ---
 
-## 🎥 AI Interview Proctoring System
+## AI Interview Proctoring System
 
 An AI-powered online interview monitoring system designed to improve assessment integrity using Computer Vision and Machine Learning.
 
@@ -189,7 +168,7 @@ An AI-powered online interview monitoring system designed to improve assessment 
 - Head Pose Estimation
 - Suspicious Activity Detection
 - Candidate Authentication
-- Real-Time Monitoring
+- Real Time Monitoring
 
 **Tech Stack**
 - Python
@@ -200,7 +179,7 @@ An AI-powered online interview monitoring system designed to improve assessment 
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -220,7 +199,7 @@ An AI-powered online interview monitoring system designed to improve assessment 
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -240,7 +219,7 @@ An AI-powered online interview monitoring system designed to improve assessment 
 
 ---
 
-# 🛠️ Currently Building
+# Currently Building
 
 - Production-Ready AI Applications
 - Multi Agent AI Systems
@@ -251,7 +230,7 @@ An AI-powered online interview monitoring system designed to improve assessment 
 
 ---
 
-# 📚 Currently Exploring
+# Currently Exploring
 
 - Kubernetes
 - MLOps
