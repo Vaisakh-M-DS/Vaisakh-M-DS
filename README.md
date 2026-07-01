@@ -14,13 +14,13 @@ Building intelligent software systems with Artificial Intelligence, scalable bac
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I build intelligent software systems that combine Artificial Intelligence, scalable backend engineering, and modern web technologies.
 
 My focus is on developing production ready AI applications, backend APIs, automation systems, and full-stack platforms with clean architecture, scalability, and performance in mind.
 
-## 💡 What I Build
+## What I Build
 
 - 🤖 Artificial Intelligence Applications
 - 🧠 Large Language Model (LLM) Systems
@@ -117,16 +117,6 @@ My focus is on developing production ready AI applications, backend APIs, automa
 - Horizontal Scaling
 - Vertical Scaling
 - Clean Architecture
-
----
-
-# ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,azure,vercel,netlify" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
