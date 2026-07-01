@@ -42,7 +42,7 @@ My focus is on developing production ready AI applications, backend APIs, automa
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vaisakh-manikandan-339663283/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -53,14 +53,14 @@ My focus is on developing production ready AI applications, backend APIs, automa
 # Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,sql" />
 </p>
 
 
 # Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
 ---
